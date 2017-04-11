@@ -5,7 +5,8 @@ STUDENT ID :792715
 STUDENT NAME : JUNWEN XIE
 
 
-1. Introduction
+1. Introduction：
+
 The purpose of this project is to programme a single application with multiple approximate matching
 methods which can identify the film title in these reviews, and also, the application can evaluate the
 quality of the film through these IMDb reviews.
